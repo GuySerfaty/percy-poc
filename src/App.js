@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} style={{ width: 100 }} className="App-logo" alt="logo" />
         <form>
-          <input placeholder="Username" />
+          <input placeholder="Username other" />
           <input placeholder="Password" />
           <button>SUBMIT</button>
         </form>
